@@ -136,7 +136,7 @@ if __name__ == '__main__':
 
 # Six arguments for how we want the program to behave
 # -c sets up an interactive shell
-parser.add_argument('-c', '-command', action='store_true', help='command shell')
+parser.add_argument('-c', '--command', action='store_true', help='command shell')
 # -e executes one specific command
 parser.add_argument('-e', '--execute', help='execute specified command')
 # -l indicates that a listener should be set up
