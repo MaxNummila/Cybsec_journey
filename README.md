@@ -18,6 +18,7 @@ This repo is the documentation of my learning path into cybersecurity. My focus 
 ## Books
 - Internet, Mikko Hyppönen 2021
 - Black hat Python 2nd edition, Justin Seitz and Tim Arnold 2021 *(In progress)* [█░░░░░░░░░░░░░░░░░]
+- Hyvät Hakkerit, Linus Nyman 2025 *(In progress)*
 
 ## Notes by Topic
 - Will be adding specific folders with files for each topic/lab where the progress, cheatsheets, notes and struggles will be.
