@@ -11,7 +11,7 @@ A network intrusion detection system based on GPU-acceleration.
 
 ## Progress
 
-- [ ] **1 · Boot one VM** — done when a Linux desktop loads
+- [x] **1 · Boot one VM** — done when a Linux desktop loads
 - [ ] **2 · Wire the network** — done when VM reaches internet + host pings VM
 - [ ] **3 · Watch traffic** — done when I see my own browsing in the flow logs
 - [ ] **4 · Flag the weird** — done when a tree model scores a flow normal vs odd
